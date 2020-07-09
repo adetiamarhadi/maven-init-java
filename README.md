@@ -9,3 +9,5 @@ mvn archetype:generate -DgroupId=com.github.adetiamarhadi -DartifactId=my-apps -
 ```bash
 mvn -N io.takari:maven:wrapper
 ```
+
+[Read More](https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html)
